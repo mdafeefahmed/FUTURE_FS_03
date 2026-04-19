@@ -8,17 +8,7 @@ This project simulates a real-world freelance website designed for a local busin
 ## 🚀 Live Demo
 
 👉 https://future-fs-03-blond.vercel.app
-
----
-
-## 📸 Preview
-
-*(Add screenshots here after uploading images to GitHub or Vercel)*
-
-Example:
-- Home Page  
-- Menu Section  
-- Contact Section  
+ 
 
 ---
 
