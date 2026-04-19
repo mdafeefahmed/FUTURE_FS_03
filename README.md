@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+# ☕ Sunrise Café - Modern React Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive café website built using React.  
+This project simulates a real-world freelance website designed for a local business to improve its online presence and attract more customers.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Live Demo
 
-### `npm start`
+👉 https://future-fs-03-blond.vercel.app
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📸 Preview
 
-### `npm test`
+*(Add screenshots here after uploading images to GitHub or Vercel)*
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Example:
+- Home Page  
+- Menu Section  
+- Contact Section  
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🧠 Project Overview
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Sunrise Café is a real-world styled business website designed to help a café:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Build a strong online presence  
+- Showcase menu and services  
+- Attract more local customers  
+- Provide easy contact options  
+- Improve trust and brand value  
 
-### `npm run eject`
+This project reflects how freelance developers build websites for small businesses.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🎯 Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- ⚡ Clean and modern UI design  
+- 📱 Fully responsive layout (mobile + desktop)  
+- 🏠 Hero landing section  
+- 🍽️ Menu showcase section  
+- ℹ️ About section  
+- 📩 Contact form  
+- 💬 WhatsApp contact link  
+- 🎨 Smooth and professional styling  
+- 🌙 Modern dark-themed UI  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 🛠️ Tech Stack
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- React (Functional Components)
+- JavaScript (ES6+)
+- CSS (Custom Styling)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 📂 Project Structure
+src/
+│── App.js
+│── App.css
+│── index.js
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 💡 What I Learned
 
-### Making a Progressive Web App
+- Building real-world business websites using React  
+- Creating structured UI layouts  
+- Designing user-friendly interfaces  
+- Improving frontend development skills  
+- Thinking like a freelance developer  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## 💼 Business Value
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This website helps a café:
 
-### Deployment
+- Get more walk-in customers  
+- Look more professional online  
+- Allow easy customer communication  
+- Improve brand trust and visibility  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## 🚀 How to Run Locally
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone https://github.com/your-username/cafe-website.git
+cd cafe-website
+npm install
+npm start
